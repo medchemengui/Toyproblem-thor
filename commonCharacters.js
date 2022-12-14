@@ -13,6 +13,11 @@
 
 
  var commonCharacters = function(string1, string2) {
+  var a =[];
+  var charac="";
+  for (var i=0;i<arr.length;i++){
+   a.push(arr[i].toString);
+  }
   
     }
     
